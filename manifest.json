@@ -1,0 +1,15 @@
+{
+  "name": "Калькулятор Винокура — Мамадель",
+  "short_name": "Винокур",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#8b4513",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/924/924514.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
